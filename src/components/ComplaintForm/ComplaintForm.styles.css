@@ -1,0 +1,27 @@
+.form-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .form-step {
+    padding: 20px;
+  }
+  
+  .form-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .form-step-container {
+    margin-top: 30px;
+  }
+  
+  h3 {
+    color: #007bff;
+  }
+  
+  button {
+    width: 48%;
+  }
+  
